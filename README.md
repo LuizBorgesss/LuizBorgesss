@@ -23,7 +23,7 @@
   
   ##
   
-- 🔭 Hoje trabalho com front end
+- 🔭 Hoje estudo front end
 - 🌱 Estudando React e Typescript
 - 📫 Contate-me no email:luizeduardobrgs@gmail.com
 - 😄 Pronouns: ele/dele
