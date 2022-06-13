@@ -1,4 +1,4 @@
-## Olá, sou o Luiz Eduardo "Luizin" para os íntimos 👋
+## Olá, sou o Luiz Eduardo
 
 <div align="center">
   <a href="https://github.com/LuizBorgesss">
