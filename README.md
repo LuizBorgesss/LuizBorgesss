@@ -1,4 +1,4 @@
-## Olá, sou o Luiz Eduardo
+## Hello, I'm Luiz Eduardo Borges
 
 <div align="center">
   <a href="https://github.com/LuizBorgesss">
@@ -23,9 +23,9 @@
   
   ##
   
-- 🔭 Hoje estudo front end
-- 🌱 Estudando React e Typescript
-- 📫 Contate-me no email:luizeduardobrgs@gmail.com
+- 🔭 Today I'm studiyng to be a front end developer
+- 🌱 Now studying React and Typescript
+- 📫 Contact me in email:luizeduardobrgs@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Programar e Jogar são minhas paixões, inclusive já fiz um curso de desenvolvedor de jogos mas não gostei muito.
+- ⚡ Fun fact: Program and play are my passions, I already took a game developer course but I didn't like it very much
 
