@@ -1,4 +1,4 @@
-## Hello, I'm Luiz Eduardo Borges
+### Hello, I'm Luiz Eduardo Borges 👋
 
 <div align="center">
   <a href="https://github.com/LuizBorgesss">
