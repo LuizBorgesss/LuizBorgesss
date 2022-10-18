@@ -1,7 +1,7 @@
-### Hello, I'm Luiz Eduardo Borges 👋
+<h1 align="left">Eai tudo bem? Eu Sou o Luiz Eduardo 🖐</h1>
 
 <div align="center">
-  <a href="https://github.com/carloseduardob94">
+  <a href="https://github.com/LuizBorgesss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizBorgesss&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBorgesss&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
@@ -23,9 +23,13 @@
   
   ##
   
-- 🔭 Today I'm studiyng to be a front end developer
-- 🌱 Now studying React and Typescript
-- 📫 Contact me in email:luizeduardobrgs@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Program and play are my passions, I already took a game developer course but I didn't like it very much
+- 🔭 Hoje estou finalizando minha faculdade na área de análise e desenvolvimento de sistemas.
+
+- 🌱 Estou fazendo o curso Programador Full Stack Javascript da OneBitCode.
+
+- 📫 Entre em contato comigo pelo meu email: luizeduardobrgs@gmail.com ou pelas redes sociais.
+
+- ⚡ Fluente em inglês.
+
+- 🎮 O meu Hobbie favorito é jogar, principalmente jogos competitivos como valorant, em que já cheguei a ficar na lista dos 4000 melhores players brasileiros.
 
