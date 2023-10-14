@@ -8,9 +8,11 @@
  
   ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Luiz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Luiz-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
+  <img align="center" alt="Luiz-React" height="30" width="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg">
+  <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -23,13 +25,13 @@
   
   ##
   
-- 🔭 Hoje estou finalizando minha faculdade na área de análise e desenvolvimento de sistemas.
+- 🔭 Sou formado em ánalise e desenvolvimento de sistemas.
 
-- 🌱 Estou fazendo o curso Programador Full Stack Javascript da OneBitCode.
+- 💻 Atualmente sou Analista de testes junior, com experiência na área por meio de trabalhos voluntários que fiz.
 
 - 📫 Entre em contato comigo pelo meu email: luizeduardobrgs@gmail.com ou pelas redes sociais.
 
 - ⚡ Fluente em inglês.
 
-- 🎮 O meu Hobbie favorito é jogar, principalmente jogos competitivos como valorant, em que já cheguei a ficar na lista dos 4000 melhores players brasileiros.
+- 🌱 Tenho conhecimentos em front-end com HTML, CSS, Javascript e bootstrap.
 
