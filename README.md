@@ -5,8 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizBorgesss&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBorgesss&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+<br>
+    
+ <div>
+   <img src="https://user-images.githubusercontent.com/106599546/202848566-11b94957-e789-44eb-a11c-d74e8e1bd114.gif" width="1300" height="320" align=center>
+ </div>  
  
-  ##
+ <hr> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Luiz-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
