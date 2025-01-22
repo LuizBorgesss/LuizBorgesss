@@ -32,11 +32,10 @@
   
 - 🔭 Sou formado em ánalise e desenvolvimento de sistemas.
 
-- 💻 Atualmente sou Analista de testes junior, com experiência na área por meio de trabalhos voluntários que fiz.
+- 💻 Atualmente sou QA junior, com experiência na área por meio de trabalhos voluntários que fiz.
 
 - 📫 Entre em contato comigo pelo meu email: luizeduardobrgs@gmail.com ou pelas redes sociais.
 
 - ⚡ Fluente em inglês.
 
-- 🌱 Tenho conhecimentos em front-end com HTML, CSS, Javascript e bootstrap.
 
